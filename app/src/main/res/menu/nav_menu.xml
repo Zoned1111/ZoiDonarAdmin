@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navEventStatus"
+        android:icon="@drawable/power_button"
+        android:title=""
+        />
+    <item
+        android:id="@+id/navSms"
+        android:icon="@drawable/sms"
+        android:title=""
+        />
+    <item
+        android:id="@+id/navAddEvent"
+        android:icon="@drawable/add"
+        android:title=""
+        />
+    <item
+        android:id="@+id/navReport"
+        android:icon="@drawable/graph"
+        android:title=""
+        />
+    <item
+        android:id="@+id/navDatabase"
+        android:icon="@drawable/dashboard"
+        android:title=""
+        />
+
+</menu>
